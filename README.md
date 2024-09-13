@@ -16,3 +16,4 @@ Screenshots:
 ![image](https://github.com/user-attachments/assets/0cd175b9-1b21-4a87-9b89-cbc97328ab3e)
 ![image](https://github.com/user-attachments/assets/41b3ff2c-1839-4cd3-8289-4a8ded4c0a29)
 
+Site: https://sangitamoviesearch.netlify.app/
